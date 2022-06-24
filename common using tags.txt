@@ -1,0 +1,26 @@
+## Implement in C
+```c
+
+
+/*
+运行结果：
+
+
+*/
+```
+
+
+
+<code>2<sup>λ - 1</sup></code>
+<code>2<sub>λ - 1</sub></code>
+<code></code>
+
+
+
+
+align="left"
+
+
+
+
+<hr />
